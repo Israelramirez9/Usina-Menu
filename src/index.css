@@ -9,4 +9,5 @@ height: 100vh;
 margin:0;
 font-family: "Montserrat", Helvetica, Arial, sans-serif;
 background-color: rgb(255, 192, 203,0.1);
+overflow-x: hidden;
 }

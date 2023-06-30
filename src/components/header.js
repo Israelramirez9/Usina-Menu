@@ -12,31 +12,17 @@ export default function Header() {
             <div className="nav-container">
                 <nav>
                     <a href="#0">
-                        <div className="navegacion">Almuerzos</div>
+                        <button>Almuerzos</button>
                     </a>
-                    <a href="#1">
-                        <div className="navegacion">Tapeos</div>
-                    </a>
-                    <a href="#2">
-                        <div className="navegacion">Burguers</div>
-                    </a>
-                    <a href="#2">
-                        <div className="navegacion">Sandwichs</div>
-                    </a>
-                </nav>
-                <nav>
-                    <a href="#3">
-                        <div className="navegacion">Desayunos & Meriendas</div>
-                    </a>
-                    <a href="#4">
-                        <div className="navegacion">Pastelería & Postres</div>
-                    </a>
-                    <a href="#5">
-                        <div className="navegacion">Cafés & Bebidas Frías</div>
-                    </a>
-                    <a href="#6">
-                        <div className="navegacion">Take Away</div>
-                    </a>
+
+                    <a href="#1"><button>Tapeos</button></a>
+                    <a href="#2"><button>Burguers</button></a>
+                    <a href="#2"><button>Sandwichs</button></a>
+                    <a href="#3"><button>Desayunos & Meriendas</button></a>
+                    <a href="#4"><button>Pastelería & Postres</button></a>
+                    <a href="#5"><button>Cafés & Bebidas</button></a>
+                    <a href="#6"><button>Take Away</button></a>
+
                 </nav>
             </div>
             <h1>Dedicados al buen café</h1>
