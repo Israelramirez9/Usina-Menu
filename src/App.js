@@ -1,7 +1,7 @@
 import React from "react"
 import './App.css';
 import Header from "./components/header";
-import LunchSection from "./components/lunchSection";
+import FoodSection from "./components/foodSection";
 import Footer from "./components/footer";
 function App() {
   return (
@@ -9,7 +9,7 @@ function App() {
       <main>
         <Header></Header>
         <section>
-          <LunchSection></LunchSection>
+          <FoodSection></FoodSection>
         </section>
         <Footer></Footer>
       </main>

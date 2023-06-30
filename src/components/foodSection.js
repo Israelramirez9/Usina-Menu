@@ -3,8 +3,9 @@ import '../stylesheets/section.css';
 import FoodColumns from "./foodColumn";
 
 
-export default function LunchSection() {
-    const categories = ["Almuerzos", "Tapeos", "Burguers & Sandwichs", "Desayunos & Meriendas", "Pasteleria & Postres", "Cafés & Bebidas frías", "Take Away"]
+export default function FoodSection() {
+    // const categories = ["Almuerzos", "Tapeos", "Burguers & Sandwichs", "Desayunos & Meriendas", "Pasteleria & Postres", "Cafés & Bebidas frías", "Take Away"]
+    const [categories, setCategories] = useState([])
     const [dishes, setDishes] = useState([])
 
     useEffect(() => {
@@ -12,9 +13,14 @@ export default function LunchSection() {
             .then((response) =>
                 response.json()
             )
-            .then((obj) => {
-                setDishes(obj);
-                console.log(obj)
+            .then((dishesFetched) => {
+                const categoryObject = {}
+
+                dishesFetched.forEach((dish) => {
+                    categoryObject[dish.category] = "";
+                })
+                setDishes(dishesFetched);
+                setCategories(Object.keys(categoryObject))
             })
             .catch((e) => {
                 console.log(e)
@@ -27,11 +33,11 @@ export default function LunchSection() {
     return (
         <>
             {
-                categories.map((e, index) => {
-                    let category = dishes.filter((obj) => obj.id === e)
+                categories.map((dishCategory, index) => {
+                    let category = dishes.filter((obj) => obj.category === dishCategory)
                     return (
                         <React.Fragment key={index}>
-                            <h3 id={index}>{e}</h3>
+                            <h3 id={index}>{dishCategory}</h3>
                             <div className="section-container">
                                 {
                                     category.map((obj, index) =>

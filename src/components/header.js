@@ -1,6 +1,7 @@
 import React from "react";
 import '../stylesheets/header.css';
-import BacktoTopButton from "./BacktoTopButton";
+import BacktoTopButton from "./backtoTopButton";
+
 export default function Header() {
     return (
         <header>
