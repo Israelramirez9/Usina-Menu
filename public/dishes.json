@@ -1,0 +1,401 @@
+[
+    {
+        "name": "Pechuga de pollo al limon",
+        "price": 4300,
+        "description": "Acompañado de zanahorias grilladas con alioli y ensalada de verdes,chauchas y cherrys",
+        "id": "Almuerzos",
+        "img": "images/1.almuerzos-pechugaensalada.jpg"
+    },
+    {
+        "name": "Ojo de bife",
+        "price": 4300,
+        "description": "Ojo de Bife de 300gr acompañado de espárragos y peras horneadas",
+        "id": "Almuerzos",
+        "img": "images/2.almuerzos-ojodebife.jpg"
+    },
+    {
+        "name": "Ensalada Cesar",
+        "price": 2650,
+        "description": "Pollo marinado + hojas verdes + croutons + queso parmesano + aderezo",
+        "id": "Almuerzos",
+        "img": "images/4.ensalada-cesar.jpg"
+    },
+    {
+        "name": "Ensalada de Crudo y Palta",
+        "price": 2650,
+        "description": "Jamon crudo + palta +rucula + espinaca + mani + queso en hebras + aderezo alioli",
+        "id": "Almuerzos",
+        "img": "images/4.ensalada-caprese.jpg"
+    },
+    {
+        "name": "Enalada de Kale",
+        "price": "2650",
+        "description": "Tofu grillado + hojas frescas de Kale y mix de lechuga + anana asada + tomates cherrys + vinagreta de naranja",
+        "id": "Almuerzos",
+        "img": "images/5.ensalada-pollo-rucula.jpg"
+    },
+    {
+        "name": "Ñoquis Tricolor",
+        "price": "1750",
+        "description": "Curcuma, morrón y perejil (elegí tu salsa favorita)",
+        "id": "Almuerzos",
+        "img": "images/6.ñoquis-tricolor.jpg"
+    },
+    {
+        "name": "Ravioles",
+        "price": "1800",
+        "description": "Rellenos de tres quesos y nuez (elegí tu salsa favorita)",
+        "id": "Almuerzos",
+        "img": "images/7.pasta-raviolesconpesto.jpg"
+    },
+    {
+        "name": "Cinta Fresca",
+        "price": "1800",
+        "description": "al huevo + tomate cherry (elegí tu salsa favorita)",
+        "id": "Almuerzos",
+        "img": "images/8.pastas-cherryyhongos.jpg"
+    },
+    {
+        "name": "Sorrentinos",
+        "price": 1900,
+        "description": "Rellenos de calabaza y Muzzarela (elegí tu salsa favorita)",
+        "id": "Almuerzos",
+        "img": "images/9.pastas-sorrentinosdecordero.jpg"
+    },
+    {
+        "name": "Salsa de Brocoli al Pesto",
+        "price": 800,
+        "description": "Brocoli + albahaca + nuez Tostada y escamas de queso",
+        "id": "Almuerzos",
+        "img": "images/10.salsas-brocoli.jpg"
+    },
+    {
+        "name": "Crema Al Verdeo",
+        "price": 800,
+        "description": "Portobello + nueces",
+        "id": "Almuerzos",
+        "img": "images/11.salsas-palta.jpg"
+    },
+    {
+        "name": "Parisine",
+        "price": 800,
+        "description": "Pollo en cubos + crema + chanpiñones + jamón",
+        "id": "Almuerzos",
+        "img": "images/12.salsas-champiñones.jpg"
+    },
+    {
+        "name": "Chinken Fingers",
+        "price": "1900",
+        "description": "Tiras de pollo rebosada + salsa Alioli",
+        "id": "Tapeos",
+        "img": "images/13.tor-pollochips.jpg"
+    },
+    {
+        "name": "Paspas Fritas",
+        "price": 1750,
+        "description": "Papas + chedar + panceta Y verdeo",
+        "id": "Tapeos",
+        "img": "images/14.tor-papaschedarpancetaverdeo.jpg"
+    },
+    {
+        "name": "Paspas Bravas",
+        "price": 1400,
+        "description": "Paspas acompañadas con salsa picante",
+        "id": "Tapeos",
+        "img": "images/15.tor-papasbravas.jpg"
+    },
+    {
+        "name": "Omellete con Ensalada",
+        "price": 2000,
+        "description": "Preparado con tres huevos + tomate cherry + rucula y olivas",
+        "id": "Tapeos",
+        "img": "images/16.tor-huevo-ensalada.jpg"
+    },
+    {
+        "name": "Tarta de Calabaza",
+        "price": 2300,
+        "description": "Relleno de calabaza, queso y puerro, acompañada de verdes y cherry",
+        "id": "Tapeos",
+        "img": "images/17.tor-canasta caprese.jpg"
+    },
+    {
+        "name": "Bruschetas",
+        "price": 3000,
+        "description": "Brucheta de trucha patagónica, rúcula, queso crema y alcaparras/ de queso brie y hongos/ de hummus de remolacha con tomate confitado",
+        "id": "Tapeos",
+        "img": "images/21.desayunos-bruchetas.jpg"
+    },
+    {
+        "name": "DOBLE ARGENTA",
+        "price": 3100,
+        "description": "Doble hamburguesa + huevo frito + jamón cocido + queso danbo + panceta crocante + pan artesanal con avena",
+        "id": "Burguers & Sandwichs",
+        "img": "images/hamburguesa completa.jpg"
+    },
+    {
+        "name": "DOBLE CLASICA",
+        "price": 3000,
+        "description": "Doble hamburguesa + cheddar + tomate fresco + aros de cebolla morada + verdes + pan artesanal con avena. ",
+        "id": "Burguers & Sandwichs",
+        "img": "images/hamburguesas-clasica.jpg"
+    },
+    {
+        "name": "DOBLE CON QUESO BRIE",
+        "price": 3150,
+        "description": "Doble hamburguesa + queso brie + tomates hidratados en ajo y oliva + cebollas caramelizadas + pan artesanal con avena",
+        "id": "Burguers & Sandwichs",
+        "img": "images/hamburguesa-calorica.jpg"
+    },
+    {
+        "name": "GARBANZO HAMBURGUESA ARGENTA",
+        "price": 3100,
+        "description": "Un medallón de garbanzo + huevo frito + jamón cocido + queso danbo + panceta crocante + pan artesanal con avena.",
+        "id": "Burguers & Sandwichs",
+        "img": "images/hamburguesa-veggie.jpg"
+    },
+    {
+        "name": "TERNERA BRASEADA EN BAGUETIN SABORIZADO",
+        "price": 3100,
+        "description": "Sándwich de tofu grillado + berenjena al escabeche + morrón asado + rúcula + aceituna negra + aderezado con mayo de chimi.",
+        "id": "Burguers & Sandwichs",
+        "img": "images/sandwich-bondiola.jpg"
+    },
+    {
+        "name": "BAGEL DE TRUCHA AHUMADA PATAGONICA",
+        "price": 4000,
+        "description": "Filetes de trucha ahumada Patagónica, sour cream, alcaparras y rúcula.",
+        "id": "Burguers & Sandwichs",
+        "img": "images/sandwich-donacaprese.jpg"
+    },
+    {
+        "name": "JAMON CRUDO Y BRIE EN CIABATTA DE CALABAZA",
+        "price": 2900,
+        "description": "Jamón crudo + queso brie + tomates a la chapa + rúcula en ciabatta de calabaza cabutia con aderezo de alioli blanco.",
+        "id": "Burguers & Sandwichs",
+        "img": "images/sandwich-jamonserrano.jpg"
+    },
+    {
+        "name": "BOWL DE FRUTAS DE ESTACIÓN",
+        "price": 1200,
+        "description": "Selección de 4 frutas de estación.",
+        "id": "Desayunos & Meriendas",
+        "img": "images/desayunos-bowldefrutas.jpg"
+    },
+    {
+        "name": "SMOOTHIE BOWL DE BANANA Y PALTA",
+        "price": 1800,
+        "description": "Con granola de la casa, frutos rojos, banana en rodajas y semillas de amapola. (consultar Opción vegana).",
+        "id": "Desayunos & Meriendas",
+        "img": "images/desayunos-bowlfrutasyogurt.jpg"
+    },
+    {
+        "name": "DESAYUNO FIT",
+        "price": 3200,
+        "description": "Un Latte + un vaso de limonada + huevos revueltos con espinaca y tomates cherrys + espárragos grillados + una tostada de pan multicereal con hummus de remolacha y mix de semillas de calabaza y girasol.",
+        "id": "Desayunos & Meriendas",
+        "img": "images/desayunos-combo.jpg"
+    },
+    {
+        "name": "BRUNCH PARA COMPARTIR.",
+        "price": 10100,
+        "description": "Dos lattes + limonada de litro + cazuela de bríe fundido y vegetales + huevos cocidos sobre salsa de tomates, pimientos y cebolla + rodajas de pan de masa madre tibio + avocado de hummus de remolacha y cherry confitado + bowl de 4 frutas de estación + porción de torta a elección",
+        "id": "Desayunos & Meriendas",
+        "img": "images/desayunos-combomerienda.jpg"
+    },
+    {
+        "name": "AVOCADO CON QUESO CREMA Y TOMATE",
+        "price": 1800,
+        "description": "Tostada de pan multicereal de masa madre, untada con queso crema, rodajas de palta, tomates cherry y mix de semillas tostadas, oliva, sal y pimienta.",
+        "id": "Desayunos & Meriendas",
+        "img": "images/desayunos-tostadapaltaycherry.jpg"
+    },
+    {
+        "name": "AVOCADO DE HUMMUS DE REMOLACHA Y CHERRY CONFITADO",
+        "price": 1800,
+        "description": "Tostada de pan multicereal de masa madre, untada con hummus de remolacha, rodajas de palta, tomates cherrys confitados, micro greens y mix de semilla de girasol saborizadas, oliva, sal y pimienta. ",
+        "id": "Desayunos & Meriendas",
+        "img": "images/desayunos-tostadapaltayremolacha.jpg"
+    },
+    {
+        "name": "LATTE Y 2 CROISSANT",
+        "price": 1300,
+        "description": "",
+        "id": "Desayunos & Meriendas",
+        "img": "images/meriendas-latte-y-dos-croissant.jpg"
+    },
+    {
+        "name": "MARQUISE",
+        "price": 1600,
+        "description": "Apto celiaco",
+        "id": "Pasteleria & Postres",
+        "img": "images/pasteleria cupcake.jpg"
+    },
+    {
+        "name": "ALFAJOR DE MAICENA CON DULCE DE LECHE",
+        "price": 600,
+        "description": "Apto celiacos.",
+        "id": "Pasteleria & Postres",
+        "img": "images/pasteleria-alfajordemaicena.jpg"
+    },
+    {
+        "name": "BUDIN VEGANO DE COCO Y BANANA",
+        "price": 900,
+        "description": "Budín húmedo a base de banana, coco, nuez, canela y azúcar mascabo.",
+        "id": "Pasteleria & Postres",
+        "img": "images/pasteleria-budinbanana.jpg"
+    },
+    {
+        "name": "SCON DE QUESO",
+        "price": 600,
+        "description": "",
+        "id": "Pasteleria & Postres",
+        "img": "images/pasteleria-chipá.jpg"
+    },
+    {
+        "name": "RULO DE CANELA",
+        "price": 800,
+        "description": "",
+        "id": "Pasteleria & Postres",
+        "img": "images/pasteleria-cianroll.jpg"
+    },
+    {
+        "name": "DOMO DE CHOCOLATE Y MOUSSE DE NARANJA",
+        "price": 1500,
+        "description": "Mousse de naranja, insert de jugo de naranja, ganache de choco, base de sableé de chocolate.",
+        "id": "Pasteleria & Postres",
+        "img": "images/pasteleria-domochocolateynaranja.jpg"
+    },
+    {
+        "name": "RED VELVET",
+        "price": 1600,
+        "description": "Bizcocho clásico RED VELVET, sabor cacao y vainilla. Relleno de frosting de limón, chocolate blanco con corazón de compota de frambuesa. Deco de teja de chocolate blanco de colores.",
+        "id": "Pasteleria & Postres",
+        "img": "images/pasteleria-domochocolateynaranja.jpg"
+    },
+    {
+        "name": "CHEESECAKE NY STYLE DE FRUTOS ROJOS",
+        "price": 1800,
+        "description": "",
+        "id": "Pasteleria & Postres",
+        "img": "images/pasteleria-porcioncheescake.jpg"
+    },
+    {
+        "name": "CARROT CAKE",
+        "price": 1800,
+        "description": "",
+        "id": "Pasteleria & Postres",
+        "img": "images/pasteleria-porciontortadezanahoria.jpg"
+    },
+    {
+        "name": "CAFE DOBLE",
+        "price": 700,
+        "description": "",
+        "id": "Cafés & Bebidas frías",
+        "img": "images/cafe-flatwhite.jpg"
+    },
+    {
+        "name": "CAFE DOBLE MACCHIATO",
+        "price": 700,
+        "description": "",
+        "id": "Cafés & Bebidas frías",
+        "img": "images/cafe-flatwhite.jpg"
+    },
+    {
+        "name": "CORTADO EN JARRITO",
+        "price": 500,
+        "description": "",
+        "id": "Cafés & Bebidas frías",
+        "img": "images/cafe-flatwhite.jpg"
+    },
+    {
+        "name": "CORTADO EN POCILLO",
+        "price": 500,
+        "description": "",
+        "id": "Cafés & Bebidas frías",
+        "img": "images/cafe-flatwhite.jpg"
+    },
+    {
+        "name": "ESPRESSO",
+        "price": 500,
+        "description": "",
+        "id": "Cafés & Bebidas frías",
+        "img": "images/cafe-flatwhite.jpg"
+    },
+    {
+        "name": "FLAT WHITE / CORTADO DOBLE",
+        "price": 800,
+        "description": "",
+        "id": "Cafés & Bebidas frías",
+        "img": "images/cafe-flatwhite.jpg"
+    },
+    {
+        "name": "LAGRIMA DOBLE",
+        "price": 700,
+        "description": "",
+        "id": "Cafés & Bebidas frías",
+        "img": "images/cafe-flatwhite.jpg"
+    },
+    {
+        "name": "LAGRIMA EN POCILLO",
+        "price": 500,
+        "description": "",
+        "id": "Cafés & Bebidas frías",
+        "img": "images/cafe-flatwhite.jpg"
+    },
+    {
+        "name": "AGUA SIN GAS",
+        "price": 500,
+        "description": "",
+        "id": "Cafés & Bebidas frías",
+        "img":"images/bebidas-agua.jpg"
+    },
+    {
+        "name":"COCA COLA" ,
+        "price": 650,
+        "description":"" ,
+        "id": "Cafés & Bebidas frías",
+        "img":"images/bebidas-coca500.jpg"
+    },{
+        "name":"COCA ZERO",
+        "price":650,
+        "description":"",
+        "id":"Cafés & Bebidas frías",
+        "img":"images/bebidas-cocacero600ml.jpg"
+    },{
+        "name":"BATIDOS AL AGUA DOS SABORES",
+        "price":1100,
+        "description":"",
+        "id":"Cafés & Bebidas frías",
+        "img":"images/bebidas-batidos.jpg"
+    },{
+        "name":"EXPRIMIDO DE NARANJA",
+        "price":900,
+        "description":"",
+        "id":"Cafés & Bebidas frías",
+        "img":"images/bebidas-jugopdenaranjavaso.jpg"
+    },{
+        "name":"VASO DE LIMONADA",
+        "price":800,
+        "description":"",
+        "id":"Cafés & Bebidas frías",
+        "img":"images/bebidas-vasodelimonada.png"
+    },{
+        "name":"CAFÉ DOBLE",
+        "price":1000,
+        "description":"",
+        "id":"Take Away",
+        "img":"images/takeaway-cafe.jpg"
+    },{
+        "name":"CAFÉ MEDIANO",
+        "price":800,
+        "description":"",
+        "id":"Take Away",
+        "img":"images/takeaway-cafe.jpg"
+    },{
+        "name":"CAFÉ CHICO",
+        "price":550,
+        "description":"",
+        "id":"Take Away",
+        "img":"images/takeaway-cafe.jpg"
+    }
+]

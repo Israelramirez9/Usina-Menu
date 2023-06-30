@@ -1,0 +1,30 @@
+.section-container {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    align-items: center;
+    width: 70%;
+
+}
+
+.section-container .food-column-container:nth-child(2n+1){
+    border-right:1px solid #ee5da3;
+}
+
+h3 {
+    background-color: rgb(238, 93, 163,0.2);
+    width: 100%;
+    text-align: center;
+    margin: 1rem 0;
+    padding: 1rem;
+    border-top: 2px solid #ee5da3;
+    border-bottom: 2px solid #ee5da3;
+}
+
+@media (max-width: 500px){
+    .section-container{
+        display: block;
+    }
+    .section-container .food-column-container:nth-child(2n+1){
+        border-right:none;
+    }
+}
